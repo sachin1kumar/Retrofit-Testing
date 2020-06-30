@@ -1,9 +1,7 @@
-package com.manager.lastfm.model.api
+package com.manager.retrofitesting.model.api
 
-import com.manager.retrofitesting.model.Data
 import com.manager.retrofitesting.model.MainData
 import retrofit2.Call
-import java.util.*
 
 interface ApiHelper {
 

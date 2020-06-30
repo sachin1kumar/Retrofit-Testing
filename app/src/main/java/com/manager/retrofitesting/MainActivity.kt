@@ -5,8 +5,8 @@ import android.os.Bundle
 import android.widget.TextView
 import android.widget.Toast
 import androidx.lifecycle.ViewModelProviders
-import com.manager.lastfm.viewmodel.RequestViewModel
-import com.manager.myapplication.utils.Status
+import com.manager.retrofitesting.viewmodel.RequestViewModel
+import com.manager.retrofitesting.util.Status
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.manager.myapplication.utils
+package com.manager.retrofitesting.util
 
 enum class Status {
     SUCCESS,

@@ -1,4 +1,4 @@
-package com.manager.lastfm.util
+package com.manager.retrofitesting.util
 
 class Constants {
     companion object {

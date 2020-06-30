@@ -1,14 +1,11 @@
-package com.manager.lastfm.viewmodel
+package com.manager.retrofitesting.viewmodel
 
-import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.manager.lastfm.model.api.ApiHelperImpl
-import com.manager.lastfm.model.api.RetrofitBuilder
-import com.manager.lastfm.util.Constants
-import com.manager.myapplication.utils.Resource
-import com.manager.retrofitesting.model.Data
+import com.manager.retrofitesting.model.api.ApiHelperImpl
+import com.manager.retrofitesting.model.api.RetrofitBuilder
+import com.manager.retrofitesting.util.Resource
 import com.manager.retrofitesting.model.MainData
 import retrofit2.Call
 import retrofit2.Callback
